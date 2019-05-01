@@ -1,5 +1,5 @@
 {
-  "name": "nodejs_typescript_boilerplate",
+  "name": "nodejs-typescript-boilerplate",
   "version": "1.0.0",
   "description": "",
   "author": "Oluwafikayo Ajayi",
@@ -15,7 +15,6 @@
     "release": "standard-version"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^10.12.9",
